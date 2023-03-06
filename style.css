@@ -56,10 +56,9 @@ nav a {
   border: 5px solid #000000;
   padding: 20px;
   text-align: center;
-  width: 46%;
+  width: 42%;
   text-align: start;
 }
-
 
 /* product img */
 
@@ -86,13 +85,13 @@ nav a {
 
 .product button {
 
-  background-color: #333;
+  background-color: #3734df;
   border: none;
   color: #fff;
   cursor: pointer;
   padding: 10px 20px;
   transition: background-color 0.2s ease;
-  border-radius: 10px;
+  border-radius: 20px;
 
 }
 
@@ -103,7 +102,7 @@ nav a {
 
 }
 
-
+/* fotter */
 
 footer {
   background-color: #000000;
